@@ -1,0 +1,5 @@
+D:\数据\VS项目\学生信息管理系统\ClassLibrary1\obj\Debug\Change.csprojResolveAssemblyReference.cache
+D:\数据\VS项目\学生信息管理系统\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\数据\VS项目\学生信息管理系统\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\数据\VS项目\学生信息管理系统\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\数据\VS项目\学生信息管理系统\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
